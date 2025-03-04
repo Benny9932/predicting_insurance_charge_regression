@@ -24,5 +24,3 @@ This project focuses on predicting insurance charges based on various factors su
 ## Conclusion
 
 The project aims to demonstrate the application of regression analysis techniques for insurance charge prediction. While the primary goal is not to outperform betting website predictions, the project serves as a learning opportunity to improve understanding of regression analysis and machine learning model implementation.
-
-If you have any feedback or suggestions, feel free to reach out!
